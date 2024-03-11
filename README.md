@@ -1,5 +1,5 @@
 # CS50P- CS50’s Introduction to Programming with Python
-My code and solutions for the different problem sets of CS50P
+My code and solutions for the different problem sets of CS50P.
 ## :warning: Disclaimer:
 
 ### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
